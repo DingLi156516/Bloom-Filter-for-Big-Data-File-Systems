@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liding/Desktop/BF project/Benchmark.cpp
+Benchmark.h
+/Users/liding/Desktop/BF project/Benchmark.h
+
+/Users/liding/Desktop/BF project/Benchmark.h
+Function.h
+/Users/liding/Desktop/BF project/Function.h
+sys/stat.h
+-
+unistd.h
+-
+string
+-
+
+/Users/liding/Desktop/BF project/DirNode.cpp
+exception
+-
+stdexcept
+-
+DirNode.h
+/Users/liding/Desktop/BF project/DirNode.h
+
+/Users/liding/Desktop/BF project/DirNode.h
+vector
+-
+string
+-
+
+/Users/liding/Desktop/BF project/FSTree.cpp
+sys/types.h
+-
+sys/stat.h
+-
+unistd.h
+-
+dirent.h
+-
+stdlib.h
+-
+vector
+-
+iostream
+-
+exception
+-
+fstream
+-
+iomanip
+-
+FSTree.h
+/Users/liding/Desktop/BF project/FSTree.h
+
+/Users/liding/Desktop/BF project/FSTree.h
+string
+-
+DirNode.h
+/Users/liding/Desktop/BF project/DirNode.h
+
+/Users/liding/Desktop/BF project/Function.cpp
+string
+-
+stdio.h
+-
+Function.h
+/Users/liding/Desktop/BF project/Function.h
+fstream
+-
+iostream
+-
+
+/Users/liding/Desktop/BF project/Function.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+string
+-
+
+/Users/liding/Desktop/BF project/Mapping.cpp
+Mapping.h
+/Users/liding/Desktop/BF project/Mapping.h
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
+/Users/liding/Desktop/BF project/Mapping.h
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
+/Users/liding/Desktop/BF project/main.cpp
+Function.h
+/Users/liding/Desktop/BF project/Function.h
+iomanip
+-
+FSTree.h
+/Users/liding/Desktop/BF project/FSTree.h
+Benchmark.h
+/Users/liding/Desktop/BF project/Benchmark.h
+

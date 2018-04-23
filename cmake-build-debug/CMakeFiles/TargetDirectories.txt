@@ -1,0 +1,3 @@
+/Users/liding/Desktop/BF project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liding/Desktop/BF project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liding/Desktop/BF project/cmake-build-debug/CMakeFiles/BF_project.dir
